@@ -15,8 +15,10 @@
   
 ### About Me:
 - 🏦 I'm a full stack developer in process to become a fullstack blockchain developer.
-- 🎓 I'm near to get my Computer systems engeenier degree.
-- 📝 I´m competitive programer, love solve challenges and problems and rank
+- 🎓 I'm currently involved in Ethereum developer program creating an amazing project with amazing team called [DoChain](https://dochain.vercel.app/)
+- 🏦 I'm near to get my Computer systems engeenier degree.
+- 📝 I´m competitive programer, love solve challenges and problems and rank, you can find me regularly in leetcode contests https://leetcode.com/BetoSCL/ and many others online judges. 
+- 📚 I like to share my knowledge and have taught classes on data structures.
 - 💻 My favorite OS until now is Arch linux (love customize everything) 
 - 🌱 I’m currently learning blockchain / TheGraph.
 
