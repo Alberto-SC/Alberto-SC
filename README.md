@@ -15,18 +15,19 @@
   
 ### About Me:
 - 🏦 I'm a full stack developer in process to become a fullstack blockchain developer.
-- 🎓 I'm currently involved in Ethereum developer program creating an amazing project with amazing team called [DoChain](https://dochain.vercel.app/)
+- 🎓 I am a graduate of the Ethereum development program from which the DOCHAIN project resulted. [DoChain](https://dochain.vercel.app/)
 - 🏦 I'm near to get my Computer systems engeenier degree.
 - 📝 I´m competitive programer, love solve challenges and problems and rank, you can find me regularly in leetcode contests https://leetcode.com/BetoSCL/ and many others online judges. 
 - 📚 I like to share my knowledge and have taught classes on data structures.
-- 💻 My favorite OS until now is Arch linux (love customize everything) 
+- 💻 My favorite OS until now is Arch linux
+- 🌥 I am Az-900 certified and looking for 204
 - 🌱 I’m currently learning blockchain / TheGraph.
 
 ## 📘 My projects
 
 <p align="left">
   <a href="https://github.com/alberto-sc/Game-Of-life"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alberto-sc&repo=Game-Of-life&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/alberto-sc/platzi-web3-libs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alberto-sc&repo=platzi-web3-libs&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/alberto-sc/dochain"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alberto-sc&repo=dochain&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/alberto-sc/Front-Mentor-Challenges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=alberto-sc&repo=Front-Mentor-Challenges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/alberto-sc/platziretoDNFT"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alberto-sc&repo=platziretoDNFT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Unedit-for-Reddit"></a>
 </p>
