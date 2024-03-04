@@ -20,7 +20,7 @@
 - 📚 I like to share my knowledge and have taught classes on data structures.
 - 💻 My favorite OS until now is Arch linux
 - 🌥 I am Az-900 certified and looking for 204
-- 🌱 I’m currently learning blockchain.
+
 
 ## 📘 My projects
 
