@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F75C7E&center=true&lines=%3CFull-stack+developer++%2F%3E;%3CCompetitive+programer+%2F%3E;+%2F%3E;%3CAlways+learning+some+new+%2F%3E"></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alberto-silva-358955175/"><img width="32px" alt="linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/452/linkedin-circled--v4.png"/></a>
+  <a href="https://www.linkedin.com/in/alberto-silva-358955175/"><img width="32px" alt="linkedin" title="Linkedin" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/></a>
 </p>
   
 ### About Me:
