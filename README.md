@@ -5,12 +5,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F75C7E&center=true&lines=%3CFull-stack+developer++%2F%3E;%3CCompetitive+programer+%2F%3E;%3CBlockchain+developer+%2F%3E;%3CAlways+learning+some+new+%2F%3E"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F75C7E&center=true&lines=%3CFull-stack+developer++%2F%3E;%3CCompetitive+programer+%2F%3E;+%2F%3E;%3CAlways+learning+some+new+%2F%3E"></a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/luisbeto9806"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/alberto-silva-358955175/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://img.icons8.com/ios-filled/452/linkedin-circled--v4.png"/></a>
+  <a href="https://www.linkedin.com/in/alberto-silva-358955175/"><img width="32px" alt="linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/452/linkedin-circled--v4.png"/></a>
 </p>
   
 ### About Me:
